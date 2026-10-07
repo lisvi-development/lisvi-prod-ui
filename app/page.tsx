@@ -14,20 +14,20 @@ export default function Home() {
 
           {/* Brand category */}
           <p className="text-xs uppercase tracking-[0.4em] text-[#77736b]">
-            Newborn Collection
+            Kids Collection
           </p>
 
           {/* Main message */}
           <h1 className="mt-7 max-w-2xl text-4xl font-light leading-tight tracking-tight md:text-6xl">
-            Little beginnings.
+            Little adventures.
             <br />
             Beautifully made.
           </h1>
 
           {/* Description */}
           <p className="mt-7 max-w-md text-sm leading-7 text-[#77736b] md:text-base">
-            A thoughtfully crafted collection for the tiniest
-            moments of life is coming soon.
+            A thoughtfully crafted collection for joyful,
+            everyday moments with the little ones is coming soon.
           </p>
 
           {/* Coming Soon */}
